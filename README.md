@@ -1,5 +1,7 @@
 # waktu_solat
 
+[![Pub](https://img.shields.io/pub/v/waktu_solat.svg)](https://pub.dev/packages/waktu_solat)
+
 A Dart/Flutter library for getting Malaysia prayer times from JAKIM e-Solat API.
 
 ## Usage
